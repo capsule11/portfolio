@@ -9,7 +9,9 @@ import Contact from "../Components/Contact";
 function Home() {
   return (
     <>
+    <div className="sticky top-0 z-50 w-full backdrop-blur-3xl bg-[#f0f2f5]/80">
       <Navbar />
+    </div>
       <Hero />
       <About />
       <Skills />
