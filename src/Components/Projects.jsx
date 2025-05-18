@@ -5,7 +5,7 @@ import projectsData from "../Data/projectsData";
 const Projects = () => {
   return (
     <div className="bg-[#f0f2f5]">
-      <section id="project" className="w-full py-24">
+      <section id="projects" className="w-full py-24">
         <div className="mx-auto px-4 md:px-6">
           <div className="flex flex-col items-center justify-center space-y-4 text-center mb-12">
             <div className="inline-block p-1.5 rounded-full bg-[#f0f2f5] shadow-[5px_5px_10px_#d1d3d5,-5px_-5px_10px_#ffffff]">
